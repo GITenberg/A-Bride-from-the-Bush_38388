@@ -1,0 +1,32 @@
+_repo: A-Bride-from-the-Bush_38388
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38388-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    alias: Hornung, Ernest William
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: ''
+gutenberg_issued: '2011-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australians -- England -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: A Bride from the Bush
+url: http://www.gutenberg.org/ebooks/38388
